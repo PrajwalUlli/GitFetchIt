@@ -1,16 +1,16 @@
-# 🚀 GitFetchIt
+# GitFetchIt
 
 **GitFetchIt** is a browser extension that lets you download specific files or folders from GitHub repositories — without cloning the entire repo.
 
----
+<br>
 
-## 🎥 Demo
+## Demo
 
 ![Demo](assets/showcase.gif)
 
----
+<br>
 
-## ✨ Features
+## Features
 
 - 📦 Download **single or multiple files**
 - 🗂️ Select and download **entire folders**
@@ -20,9 +20,8 @@
   - Max selection: **10 items**
   - Max files per download: **10,000**
 - 🌐 Works directly on **github.com**
-- A nice popup UI to use instead of visiting the repo directly
 
----
+<br>
 
 ## Screenshots
 
@@ -30,14 +29,14 @@
 |--------|--------|
 | ![Firefox](assets/firefox.png) | ![Chrome](assets/chrome.png) |
 
----
+<br>
 
 ## Compatibility
 
 - **Chrome** (Manifest V3)
 - **Firefox** (Manifest V2)
 
----
+<br>
 
 ## Build
 
@@ -58,7 +57,7 @@ Build for firefox
 npm run build:firefox
 ```
 
----
+<br>
 
 ## Installation
 
@@ -77,7 +76,7 @@ npm run build:firefox
 3. Click **Load Temporary Add-on**
 4. Select the `manifest.json` file or the zip thats generated in `.output` folder
 
----
+<br>
 
 ## Usage
 
@@ -87,7 +86,7 @@ npm run build:firefox
 4. Get a ZIP file instantly 🎉
 5. Or use the Popup UI by clicking the extension icon.
 
----
+<br>
 
 ## Limitations
 
@@ -95,19 +94,19 @@ npm run build:firefox
 - Max selection: **10 items**
 - Max files per download: **10,000**
 
----
+<br>
 
 ## Inspiration
 
 - https://github.com/git-download-manager/gitd-extension
 
----
+<br>
 
 ## Acknowledgements
 
 Built as a vibecoded project with help from Claude.
 
----
+<br>
 
 ## Contributing
 
