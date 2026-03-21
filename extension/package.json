@@ -1,0 +1,24 @@
+{
+  "name": "gitfetchit",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "wxt",
+    "dev:firefox": "wxt -b firefox",
+    "build": "wxt build",
+    "build:firefox": "wxt build -b firefox",
+    "zip:firefox": "wxt zip -b firefox",
+    "zip": "wxt zip"
+  },
+  "dependencies": {
+    "@wxt-dev/module-react": "^1.2.2",
+    "fflate": "^0.8.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "wxt": "^0.20.20"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3"
+  },
+  "description": "Select files and folders from any GitHub repo and download as ZIP"
+}
