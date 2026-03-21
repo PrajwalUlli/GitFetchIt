@@ -57,6 +57,8 @@ Build for firefox
 npm run build:firefox
 ```
 
+Checkout the `.output` folder for the extension builds
+
 <br>
 
 ## Installation
