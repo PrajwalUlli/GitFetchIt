@@ -61,6 +61,11 @@ Checkout the `.output` folder for the extension builds
 
 <br>
 
+## Don't Wanna Build
+Just downlaod the `output` folder from the repo, and follow below given steps.
+
+<br>
+
 ## Installation
 
 ### Chrome
