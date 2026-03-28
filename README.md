@@ -2,6 +2,8 @@
 
 **GitFetchIt** is a browser extension that lets you download specific files or folders from GitHub repositories — without cloning the entire repo.
 
+> Downloads only work only on public repos 
+
 <br>
 
 ## Demo
